@@ -3,4 +3,5 @@
     <string name="label_scanner">Scan Product</string>
     <string name="label_product_detail_name">Name : %1$s</string>
     <string name="label_product_detail_price">Price : %1$s</string>
+    <string name="msg_need_permission">This application not working properly if you not enable the permission</string>
 </resources>
